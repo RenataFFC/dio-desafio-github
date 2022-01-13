@@ -1,4 +1,4 @@
-# Desafio do projeto sobre Git/GitHub da DIO
+# Desafio do projeto sobre Git/GitHub do Bottcamp DIO
 Repositório criado para desafio de projeto
 
 ##Links Úteis
